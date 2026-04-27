@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # logistics-research-agent
 AI-powered autonomous research assistant for logistics industry
 =======
